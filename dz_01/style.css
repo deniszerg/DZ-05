@@ -23,10 +23,11 @@ main {
 }
 
 .nav-item {
-  text-decoration: underline;
+  text-decoration: none;
   font-family: "NarrowNews";
+  color: rgb(0, 193, 252);
   &:hover {
-    color: white;
+    color: rgb(184, 99, 30);
   }
 }
 
